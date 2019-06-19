@@ -1,0 +1,47 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.lbxtech.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="15"
+8-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:5:5-19:19
+12        android:allowBackup="true"
+12-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:6:13-39
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.0.2] /home/lbx/.gradle/caches/transforms-2/files-2.1/7dc1939ed1e4bdc7dc078e48d9526597/core-1.0.2/AndroidManifest.xml:22:18-86
+14        android:debuggable="true"
+15        android:icon="@mipmap/ic_launcher"
+15-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:7:13-47
+16        android:label="@string/app_name"
+16-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:8:13-45
+17        android:roundIcon="@mipmap/ic_launcher_round"
+17-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:9:13-58
+18        android:supportsRtl="true"
+18-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:10:13-39
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:11:13-44
+21        <activity android:name="com.lbxtech.myapplication.MainActivity" >
+21-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:12:9-18:20
+21-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:12:19-47
+22            <intent-filter>
+22-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:13:13-17:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:14:17-68
+23-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:14:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:16:17-76
+25-->/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/src/main/AndroidManifest.xml:16:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
