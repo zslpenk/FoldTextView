@@ -1,4 +1,0 @@
-#Wed Jun 19 10:56:07 CST 2019
-base.0=/home/lbx/Downloads/Packet/FoltText-master/MyApplication/app/build/intermediates/dex/debug/out/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
